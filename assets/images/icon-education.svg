@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="12" y1="12" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFDB70"></stop>
+      <stop offset="1" stop-color="#FFD54F"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Graduation Cap -->
+  <path d="M8 24L32 14L56 24L32 34L8 24Z" stroke="url(#grad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <path d="M16 29V39C16 44 23 48 32 48C41 48 48 44 48 39V29" stroke="url(#grad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <path d="M56 24V36" stroke="url(#grad)" stroke-width="2" stroke-linecap="round"></path>
+
+  <circle cx="56" cy="39" r="2" fill="url(#grad)"></circle>
+</svg>

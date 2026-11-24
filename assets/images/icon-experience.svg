@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="12" y1="12" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFDB70"></stop>
+      <stop offset="1" stop-color="#FFD54F"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Briefcase -->
+  <rect x="12" y="22" width="40" height="28" rx="4" stroke="url(#grad)" stroke-width="2"></rect>
+
+  <path d="M24 22V18C24 15.8 25.8 14 28 14H36C38.2 14 40 15.8 40 18V22" stroke="url(#grad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <path d="M12 34H52" stroke="url(#grad)" stroke-width="2"></path>
+
+  <path d="M29 34H35V38H29V34Z" stroke="url(#grad)" stroke-width="2"></path>
+</svg>

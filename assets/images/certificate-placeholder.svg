@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" fill="none">
+  <rect width="960" height="640" rx="24" fill="#171719"/>
+  <rect x="28" y="28" width="904" height="584" rx="18" stroke="#343438" stroke-width="2"/>
+  <rect x="48" y="48" width="864" height="544" rx="12" stroke="#D8B456" stroke-opacity=".75" stroke-width="2"/>
+  <path d="M92 124h776" stroke="#D8B456" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M92 516h776" stroke="#D8B456" stroke-opacity=".35" stroke-width="2"/>
+  <circle cx="480" cy="228" r="52" fill="#D8B456" fill-opacity=".12" stroke="#D8B456" stroke-width="3"/>
+  <path d="m480 192 11 22 24 3-17 17 4 24-22-12-22 12 4-24-17-17 24-3 11-22Z" stroke="#F2D37B" stroke-linejoin="round" stroke-width="3"/>
+  <text x="480" y="340" fill="#F2D37B" font-family="Arial, sans-serif" font-size="38" font-weight="600" letter-spacing="8" text-anchor="middle">SERTIFIKAT</text>
+  <text x="480" y="390" fill="#D5D5D8" font-family="Arial, sans-serif" font-size="20" letter-spacing="3" text-anchor="middle">PRATINJAU GAMBAR</text>
+  <text x="480" y="458" fill="#929297" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" text-anchor="middle">GANTI DENGAN GAMBAR SERTIFIKAT ANDA</text>
+</svg>
